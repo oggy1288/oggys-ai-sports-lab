@@ -1,3 +1,3 @@
-# Oggy's AI Sports Lab v1.3 Manual Live Round Mode
+# Oggy's AI Sports Lab v2.1 Intelligence Engine
 
 Main file path: app.py
